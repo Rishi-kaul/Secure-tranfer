@@ -103,14 +103,7 @@ python cryptography1.py
 
 ---
 
-Save this as `README.md` in your repository. Make sure to replace `cryptography1.py` with the correct filename and adjust any paths as necessary.
 
-## Notes
-
-- The interactive mode prompt in the code needs a small correction. Replace `ch = input(" Enter  E to Encrypt  or D to Decrypt : ").lower` with `ch = input(" Enter  E to Encrypt  or D to Decrypt : ").lower()`.
-- Similarly, replace `filename = input` with `filename = input("Enter the filename: ")`.
-
-Here's the corrected part of the interactive mode:
 
 ```python
 ch = input(" Enter  E to Encrypt  or D to Decrypt : ").lower()
