@@ -1,5 +1,5 @@
 
-# secure-tranfer
+# Secure-tranfer
 
 This repository contains a simple Python script for file encryption and decryption using the `cryptography` library. The script allows you to generate a key, encrypt a file, and decrypt a file with the generated key.
 
